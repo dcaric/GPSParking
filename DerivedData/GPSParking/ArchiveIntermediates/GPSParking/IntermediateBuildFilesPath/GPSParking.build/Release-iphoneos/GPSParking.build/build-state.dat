@@ -1,0 +1,838 @@
+TGPSParking
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Info.plist GPSParking-Info.plist
+cSymLink /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+cProcessPCH /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch.pth LocalWeather/GPSParking-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/main.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/LocalWeatherAppDelegate.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/LocalWeatherAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/WhereIAmView.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/InfoView.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/ListViewController.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/FavoriteView.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking normal armv7
+cGenerateDSYMFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking
+cCopyStringsFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/en.lproj/InfoPlist.strings LocalWeather/en.lproj/InfoPlist.strings
+cCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/MainWindow.xib
+cCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.xib
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/temperature1.png LocalWeather/temperature1.png
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/mail.png LocalWeather/mail.png
+cCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.xib
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/car.png LocalWeather/car.png
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/cabinet.png LocalWeather/cabinet.png
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/receipt.png LocalWeather/receipt.png
+cCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.xib
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/favorite.png LocalWeather/favorite.png
+cCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.xib
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon@2x.png Icon@2x.png
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon.png Icon.png
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default.png Default.png
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default@2x.png Default@2x.png
+cCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default-568h@2x.png Default-568h@2x.png
+cCpResource LocationZagreb.gpx DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/LocationZagreb.gpx
+cStripping /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking
+cProcessProductPackaging "/Users/applemacbook/Library/MobileDevice/Provisioning Profiles/DarioAdHoc.mobileprovision" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/applemacbook/Library/MobileDevice/Provisioning Profiles/DarioAdHoc.mobileprovision" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovision
+cTouch /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+cSetOwnerAndGroup applemacbook:staff /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+cSetMode u+w,go-w,a+rX /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcent
+cCodeSign /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+cValidate /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+cTouch /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c000000005107189000000000000001A7
+t1359419536
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c000000005107189000000000000001E5
+t1359419536
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c0000000051071892000000000014A320
+t1359419538
+s1352480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000005107189300000000002AC100
+t1359419539
+s2801920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005107189500000000006B1F40
+t1359419541
+s7020352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510718960000000000322700
+t1359419542
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000510718960000000000114910
+t1359419542
+s1132816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051071898000000000062AD10
+t1359419544
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005107189600000000000015F7
+t1359419542
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005107189800000000001AABB0
+t1359419544
+s1747888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000005107189900000000001DE790
+t1359419545
+s1959824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005107189A00000000000CAFB0
+t1359419546
+s831408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005107189A0000000000000E8D
+t1359419546
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510718A000000000011BCDF0
+t1359419552
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c00000000510718A70000000000001B73
+t1359419559
+s7027
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default-568h@2x.png
+c000000005103EC3C000000000013E07C
+t1359211580
+s1302652
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default.png
+c000000004F3E1FBB000000000004EFC4
+t1329471419
+s323524
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default@2x.png
+c000000004F3E41DB00000000000EB7B8
+t1329480155
+s964536
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default@2x.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/FavoriteView.nib
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon@2x.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Info.plist
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/InfoView.nib
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ListViewController.nib
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/LocationZagreb.gpx
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/PkgInfo
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/WhereIAmView.nib
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/cabinet.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/car.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/favorite.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/mail.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/receipt.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/temperature1.png
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcent
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/FavoriteView.o
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/GPSParking.LinkFileList
+c00000000511227D90000000000000545
+t1360144345
+s1349
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/InfoView.o
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/ListViewController.o
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/LocalWeatherAppDelegate.o
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/WhereIAmView.o
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch.pth
+t2
+s0
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Icon.png
+c000000004E1EDFA900000000000012AC
+t1310646185
+s4780
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Icon@2x.png
+c000000004F3E19B4000000000000218A
+t1329469876
+s8586
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m
+c000000005110F5AF00000000000088F5
+t1360065967
+s35061
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.xib
+c0000000051121BDF00000000000094B4
+t1360141279
+s38068
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/GPSParking-Prefix.pch
+c000000004DFCB517000000000000014A
+t1308407063
+s330
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m
+c000000005110F62D0000000000003454
+t1360066093
+s13396
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.xib
+c0000000051121CFF0000000000012467
+t1360141567
+s74855
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m
+c000000005110F2860000000000005311
+t1360065158
+s21265
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.xib
+c0000000051121C580000000000009753
+t1360141400
+s38739
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/LocalWeatherAppDelegate.m
+c000000005110EDDC000000000000091D
+t1360063964
+s2333
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.m
+c000000005111145C0000000000009038
+t1360073820
+s36920
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.xib
+c0000000051121C010000000000015CC3
+t1360141313
+s89283
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/cabinet.png
+c000000004E1F35560000000000000C49
+t1310668118
+s3145
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/car.png
+c000000004E1EE6580000000000001020
+t1310647896
+s4128
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/InfoPlist.strings
+c000000004DFCB517000000000000002D
+t1308407063
+s45
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/MainWindow.xib
+c0000000051121DA700000000000044A6
+t1360141735
+s17574
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/favorite.png
+c000000004E244D2C0000000000000F37
+t1311001900
+s3895
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/libGoogleAdMobAds.a
+c000000004ECC3A30000000000076D15C
+t1322007088
+s7786844
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/mail.png
+c000000004DFE45BD000000000000093E
+t1308509629
+s2366
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/main.m
+c000000005103E3C6000000000000023D
+t1359209414
+s573
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/receipt.png
+c000000004E1F352300000000000006A9
+t1310668067
+s1705
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/temperature1.png
+c000000004DECE2DC000000000000086E
+t1307370204
+s2158
+
+N/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocationZagreb.gpx
+c000000005106BDAA000000000000009E
+t1359396266
+s158
+
+N/Users/applemacbook/Library/MobileDevice/Provisioning Profiles/DarioAdHoc.mobileprovision
+c000000005074845F0000000000001CE4
+t1349813343
+s7396
+
+NGPSParking-Info.plist
+c0000000051111C7A00000000000005C1
+t1360075898
+s1473
+
+CBuild AST from /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m
+r0
+
+CBuild AST from /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m
+r0
+
+CBuild AST from /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m
+r0
+
+CBuild AST from /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/LocalWeatherAppDelegate.m
+r0
+
+CBuild AST from /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.m
+r0
+
+CBuild AST from /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesea9671575fc2b641^af5a71595fc2b641^---0#1#0#--18"Check dependencies36"338C8FC1-6F60-4BA3-B3B6-0023638B9F28-
+
+CCodeSign /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+s381837164.571955
+e381837164.860873
+r1
+xCodeSign
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"CodeSign DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.appf88a926c5fc2b641^fa61dc6c5fc2b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/0000000000000000^1191"CodeSign DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 28f7112df3fead205389053970e3c69f3cc6c255 --resource-rules=/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist --entitlements /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcent /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app36"39F84D90-52F1-47E7-ABC6-7339AE67CA97-
+
+CCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/FavoriteView.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381837151.091530
+e381837151.748813
+r1
+xCompileC
+xDerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/FavoriteView.o
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m:309:17: warning: 'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0 [-Wdeprecated-declarations]
+o        cell = [[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:CellIdentifier];
+o                ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:207:1: note: method 'initWithFrame:reuseIdentifier:' declared here
+o- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier NS_DEPRECATED_IOS(2_0, 3_0);
+o^
+o/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m:371:27: warning: 'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0 [-Wdeprecated-declarations]
+o        UITableViewCell *cell = [[UITableViewCell alloc] initWithFrame:CellFrame reuseIdentifier:cellIdentifier];
+o                                 ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:207:1: note: method 'initWithFrame:reuseIdentifier:' declared here
+o- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier NS_DEPRECATED_IOS(2_0, 3_0);
+o^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m9a97175f5fc2b641^67d1bf5f5fc2b641^-1387"/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m:309:17: warning: 'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0 [-Wdeprecated-declarations]        cell = [[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:CellIdentifier];                ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:207:1: note: method 'initWithFrame:reuseIdentifier:' declared here- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier NS_DEPRECATED_IOS(2_0, 3_0);^/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m:371:27: warning: 'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0 [-Wdeprecated-declarations]        UITableViewCell *cell = [[UITableViewCell alloc] initWithFrame:CellFrame reuseIdentifier:cellIdentifier];                                 ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:207:1: note: method 'initWithFrame:reuseIdentifier:' declared here- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier NS_DEPRECATED_IOS(2_0, 3_0);^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@75"'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0-381837151#18446744073709551615#0#1(2@53"Method 'initWithFrame:reuseIdentifier:' declared here-381837151#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h0000000000000000^206#0#206#0#11397#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m0000000000000000^308#16#308#16#7695#0#12"Deprecations--2@75"'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0-381837151#18446744073709551615#0#1(2@53"Method 'initWithFrame:reuseIdentifier:' declared here-381837151#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h0000000000000000^206#0#206#0#11397#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@98"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m0000000000000000^370#26#370#26#9643#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@98"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m0000000000000000^4539"CompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/FavoriteView.o LocalWeather/FavoriteView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-generated-files.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-own-target-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-all-target-headers.hmap -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-project-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources/armv7 -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources -F/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch -MMD -MT dependencies -MF /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/FavoriteView.d --serialize-diagnostics /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/FavoriteView.dia -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.m -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/FavoriteView.o36"B29CEA9B-D407-487E-8B57-B08BECF2F9B6-
+
+CCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/InfoView.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381837150.130584
+e381837150.899700
+r1
+xCompileC
+xDerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/InfoView.o
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m:154:12: warning: incompatible pointer types assigning to 'NSString *__strong' from 'NSDictionary *' [-Wincompatible-pointer-types]
+o    number = [placemark addressDictionary];
+o           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.mfb96215e5fc2b641^e76fe65e5fc2b641^-318"/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m:154:12: warning: incompatible pointer types assigning to 'NSString *__strong' from 'NSDictionary *' [-Wincompatible-pointer-types]    number = [placemark addressDictionary];           ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@82"Incompatible pointer types assigning to 'NSString *__strong' from 'NSDictionary *'-381837150#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@94"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m0000000000000000^153#11#153#11#4366#0#14"Semantic Issue1(3@94"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m0000000000000000^153#13#153#42#4368#28#-0#0#0#-19%DVTDocumentLocation4@94"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m0000000000000000^4515"CompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/InfoView.o LocalWeather/InfoView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-generated-files.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-own-target-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-all-target-headers.hmap -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-project-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources/armv7 -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources -F/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch -MMD -MT dependencies -MF /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/InfoView.d --serialize-diagnostics /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/InfoView.dia -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.m -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/InfoView.o36"19E5C702-00CA-46AC-89AF-A849682D9C66-
+
+CCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/ListViewController.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381837150.901121
+e381837151.697384
+r1
+xCompileC
+xDerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/ListViewController.o
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m:200:17: warning: 'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0 [-Wdeprecated-declarations]
+o        cell = [[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:CellIdentifier];
+o                ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:207:1: note: method 'initWithFrame:reuseIdentifier:' declared here
+o- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier NS_DEPRECATED_IOS(2_0, 3_0);
+o^
+o/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m:266:27: warning: 'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0 [-Wdeprecated-declarations]
+o        UITableViewCell *cell = [[UITableViewCell alloc] initWithFrame:CellFrame reuseIdentifier:cellIdentifier];
+o                                 ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:207:1: note: method 'initWithFrame:reuseIdentifier:' declared here
+o- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier NS_DEPRECATED_IOS(2_0, 3_0);
+o^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.me9d7e65e5fc2b641^919ab25f5fc2b641^-1399"/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m:200:17: warning: 'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0 [-Wdeprecated-declarations]        cell = [[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:CellIdentifier];                ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:207:1: note: method 'initWithFrame:reuseIdentifier:' declared here- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier NS_DEPRECATED_IOS(2_0, 3_0);^/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m:266:27: warning: 'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0 [-Wdeprecated-declarations]        UITableViewCell *cell = [[UITableViewCell alloc] initWithFrame:CellFrame reuseIdentifier:cellIdentifier];                                 ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:207:1: note: method 'initWithFrame:reuseIdentifier:' declared here- (id)initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier NS_DEPRECATED_IOS(2_0, 3_0);^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@75"'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0-381837151#18446744073709551615#0#1(2@53"Method 'initWithFrame:reuseIdentifier:' declared here-381837151#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h0000000000000000^206#0#206#0#11397#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m0000000000000000^199#16#199#16#4883#0#12"Deprecations--2@75"'initWithFrame:reuseIdentifier:' is deprecated: first deprecated in iOS 3.0-381837151#18446744073709551615#0#1(2@53"Method 'initWithFrame:reuseIdentifier:' declared here-381837151#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h0000000000000000^206#0#206#0#11397#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m0000000000000000^265#26#265#26#6697#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@104"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m0000000000000000^4575"CompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/ListViewController.o LocalWeather/ListViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-generated-files.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-own-target-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-all-target-headers.hmap -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-project-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources/armv7 -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources -F/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch -MMD -MT dependencies -MF /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/ListViewController.d --serialize-diagnostics /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/ListViewController.dia -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.m -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/ListViewController.o36"0E742B19-C39D-4A88-8454-E11969C236D0-
+
+CCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/LocalWeatherAppDelegate.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/LocalWeatherAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381837149.581976
+e381837150.129167
+r1
+xCompileC
+xDerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/LocalWeatherAppDelegate.o
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/LocalWeatherAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/LocalWeatherAppDelegate.m6c24955d5fc2b641^a110215e5fc2b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/LocalWeatherAppDelegate.m0000000000000000^4605"CompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/LocalWeatherAppDelegate.o LocalWeather/LocalWeatherAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-generated-files.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-own-target-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-all-target-headers.hmap -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-project-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources/armv7 -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources -F/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch -MMD -MT dependencies -MF /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/LocalWeatherAppDelegate.d --serialize-diagnostics /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/LocalWeatherAppDelegate.dia -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/LocalWeatherAppDelegate.m -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/LocalWeatherAppDelegate.o36"5EF9E747-EBB4-45D8-84C8-355D59DAFF55-
+
+CCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/WhereIAmView.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381837150.099994
+e381837151.090218
+r1
+xCompileC
+xDerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/WhereIAmView.o
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.ma8c8195e5fc2b641^a12d175f5fc2b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.m0000000000000000^4539"CompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/WhereIAmView.o LocalWeather/WhereIAmView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-generated-files.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-own-target-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-all-target-headers.hmap -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-project-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources/armv7 -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources -F/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch -MMD -MT dependencies -MF /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/WhereIAmView.d --serialize-diagnostics /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/WhereIAmView.dia -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.m -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/WhereIAmView.o36"0134705B-1543-4082-87AF-321B5D2F5756-
+
+CCompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/main.o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381837149.581388
+e381837150.098659
+r1
+xCompileC
+xDerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/main.o
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/main.me700955d5fc2b641^4548195e5fc2b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/main.m0000000000000000^4491"CompileC DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/main.o LocalWeather/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-generated-files.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-own-target-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-all-target-headers.hmap -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-project-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources/armv7 -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources -F/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch -MMD -MT dependencies -MF /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/main.dia -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/main.m -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/main.o36"C1D44E61-E313-4CA1-BF7C-FB30706A7EF3-
+
+CCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.xib
+s381837163.035757
+e381837163.176987
+r1
+xCompileXIB
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.xib3b52096b5fc2b641^45632d6b5fc2b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.xib0000000000000000^950"CompileXIB LocalWeather/FavoriteView.xib    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/FavoriteView.nib /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/FavoriteView.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"17909A2D-17D5-405F-AB61-9BD2AE70DA27-
+
+CCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.xib
+s381837160.155792
+e381837162.434981
+r1
+xCompileXIB
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compiling /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.xib470328685fc2b641^8e5c6f6a5fc2b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.xib0000000000000000^938"CompileXIB LocalWeather/InfoView.xib    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/InfoView.nib /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/InfoView.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"B72D9E04-FA78-4ABC-853A-4B25EC180C73-
+
+CCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.xib
+s381837162.921735
+e381837163.062591
+r1
+xCompileXIB
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compiling /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.xib0821ec6a5fc2b641^0806106b5fc2b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.xib0000000000000000^968"CompileXIB LocalWeather/ListViewController.xib    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ListViewController.nib /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/ListViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"E80750AB-263A-487C-ACA8-6F0421E19238-
+
+CCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.xib
+s381837157.671748
+e381837162.468728
+r1
+xCompileXIB
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.xib5513ac655fc2b641^3317786a5fc2b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.xib0000000000000000^950"CompileXIB LocalWeather/WhereIAmView.xib    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/WhereIAmView.nib /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/WhereIAmView.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"F13A56C6-872B-42EB-9658-FFB70200AA77-
+
+CCompileXIB /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/MainWindow.xib
+s381837157.247325
+e381837159.728257
+r1
+xCompileXIB
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compiling /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/MainWindow.xib3c673f655fc2b641^7b9fba675fc2b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/MainWindow.xib0000000000000000^971"CompileXIB LocalWeather/en.lproj/MainWindow.xib    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/en.lproj/MainWindow.nib /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/MainWindow.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"CA2D2ADC-780B-498B-89D4-8BDF58C2E321-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default-568h@2x.png Default-568h@2x.png
+s381837163.480567
+e381837164.167667
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default-568h@2x.png
+xDefault-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default-568h@2x.png Default-568h@2x.png452f7b6b5fc2b641^e6eb2a6c5fc2b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default-568h@2x.png0000000000000000^808"CopyPNGFile "DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default-568h@2x.png" "Default-568h@2x.png"    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default-568h@2x.png" "/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default-568h@2x.png"36"272F13FD-DABD-4054-9070-91824E6ED348-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default.png Default.png
+s381837163.198091
+e381837163.479252
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default.png
+xDefault.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default.png Default.pnga9da326b5fc2b641^abaf7a6b5fc2b641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default.png0000000000000000^768"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default.png Default.png    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default.png /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default.png36"FD0CC671-1C56-488A-A9F3-893E5167A878-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default@2x.png Default@2x.png
+s381837163.297006
+e381837163.886119
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default@2x.png
+xDefault@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default@2x.png Default@2x.pngcf2d4c6b5fc2b641^2cd8e26b5fc2b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default@2x.png0000000000000000^788"CopyPNGFile "DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default@2x.png" "Default@2x.png"    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Default@2x.png" "/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Default@2x.png"36"DF0BCBCE-523B-4FBF-A38C-5758FFC6E269-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon.png Icon.png
+s381837163.178334
+e381837163.295695
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon.png
+xIcon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon.png Icon.pngeacc2d6b5fc2b641^b9c24b6b5fc2b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Icon.png0000000000000000^756"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon.png Icon.png    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Icon.png /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon.png36"E574F099-B0B9-41EB-A0EF-F3895B021F3F-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon@2x.png Icon@2x.png
+s381837163.065056
+e381837163.196726
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon@2x.png
+xIcon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon@2x.png Icon@2x.png56d8106b5fc2b641^a56b326b5fc2b641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Icon@2x.png0000000000000000^776"CopyPNGFile "DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon@2x.png" "Icon@2x.png"    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/Icon@2x.png" "/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Icon@2x.png"36"152E6820-29A5-4E37-97F7-5FBD71ADB381-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/cabinet.png LocalWeather/cabinet.png
+s381837162.470050
+e381837162.920377
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/cabinet.png
+xLocalWeather/cabinet.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/cabinet.png LocalWeather/cabinet.png3a76786a5fc2b641^e4a1eb6a5fc2b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/cabinet.png0000000000000000^794"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/cabinet.png LocalWeather/cabinet.png    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/cabinet.png /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/cabinet.png36"298C2920-5273-4761-8050-421694BFC56D-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/car.png LocalWeather/car.png
+s381837162.436421
+e381837162.751464
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/car.png
+xLocalWeather/car.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/car.png LocalWeather/car.pngdfe06f6a5fc2b641^2460c06a5fc2b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/car.png0000000000000000^778"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/car.png LocalWeather/car.png    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/car.png /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/car.png36"BA0BB9F1-252A-4FCD-B391-FBE656298C7B-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/favorite.png LocalWeather/favorite.png
+s381837162.949408
+e381837163.034452
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/favorite.png
+xLocalWeather/favorite.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/favorite.png LocalWeather/favorite.png9737f36a5fc2b641^5de2086b5fc2b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/favorite.png0000000000000000^798"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/favorite.png LocalWeather/favorite.png    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/favorite.png /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/favorite.png36"C923202F-39EC-4122-9A40-184A8E940A50-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/mail.png LocalWeather/mail.png
+s381837160.090630
+e381837160.154415
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/mail.png
+xLocalWeather/mail.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/mail.png LocalWeather/mail.png054d17685fc2b641^f69927685fc2b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/mail.png0000000000000000^782"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/mail.png LocalWeather/mail.png    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/mail.png /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/mail.png36"5A0B8B9B-A792-4581-9571-798578309C33-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/receipt.png LocalWeather/receipt.png
+s381837162.752816
+e381837162.947606
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/receipt.png
+xLocalWeather/receipt.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/receipt.png LocalWeather/receipt.pngb5ddc06a5fc2b641^9695f26a5fc2b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/receipt.png0000000000000000^794"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/receipt.png LocalWeather/receipt.png    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/receipt.png /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/receipt.png36"336117B3-8096-4DC8-92E2-F7110AB5365A-
+
+CCopyPNGFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/temperature1.png LocalWeather/temperature1.png
+s381837159.729563
+e381837160.089150
+r1
+xCopyPNGFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/temperature1.png
+xLocalWeather/temperature1.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection175"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/temperature1.png LocalWeather/temperature1.pngc363bb675fc2b641^ddd216685fc2b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/temperature1.png0000000000000000^814"CopyPNGFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/temperature1.png LocalWeather/temperature1.png    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/temperature1.png /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/temperature1.png36"E4834FE3-0648-4691-A80C-BB77D5600AAF-
+
+CCopyStringsFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/en.lproj/InfoPlist.strings LocalWeather/en.lproj/InfoPlist.strings
+s381837157.246632
+e381837157.670347
+r1
+xCopyStringsFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/en.lproj/InfoPlist.strings
+xLocalWeather/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy LocalWeather/en.lproj/InfoPlist.strings9a423f655fc2b641^aa9bab655fc2b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/en.lproj/InfoPlist.strings0000000000000000^764"CopyStringsFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/en.lproj/InfoPlist.strings LocalWeather/en.lproj/InfoPlist.strings    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/en.lproj -- LocalWeather/en.lproj/InfoPlist.strings36"03DC1845-D5BC-4281-A6BE-C122DE7ECE9F-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist
+s381837145.455956
+e381837145.462243
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Copy DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist48df74595fc2b641^5b077b595fc2b641^---0#0#0#-19%DVTDocumentLocation2@207"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist000000000080d041^1052"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app36"92F08A9F-2FFD-47CE-9C43-BDB59DBB4B9D-
+
+CCpResource LocationZagreb.gpx DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/LocationZagreb.gpx
+s381837163.887554
+e381837163.928510
+r1
+xCpResource
+xLocationZagreb.gpx
+xDerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/LocationZagreb.gpx
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Copy DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/LocationZagreb.gpx1c5fe36b5fc2b641^9cbfed6b5fc2b641^---0#0#0#-19%DVTDocumentLocation2@206"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/LocationZagreb.gpx000000000080d041^900"CpResource LocationZagreb.gpx DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/LocationZagreb.gpx    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocationZagreb.gpx /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app36"D01D89AB-5A41-4988-8B54-B41B1FA7A479-
+
+CGenerateDSYMFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking
+s381837156.750976
+e381837157.238327
+r1
+xGenerateDSYMFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Generate /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM3d62c0645fc2b641^79023d655fc2b641^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM000000000080d041^956"GenerateDSYMFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM36"3FA87EE4-DD93-45D9-B85E-4C9AC12EAFE9-
+
+CLd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking normal armv7
+s381837151.755995
+e381837156.743921
+r1
+xLd
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection187"Link /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking2236c45f5fc2b641^1172be645fc2b641^---0#0#0#--1766"Ld DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking normal armv7    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -L/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather -F/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -filelist /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/Objects-normal/armv7/GPSParking.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=4.3 -framework SystemConfiguration -framework AudioToolbox -framework AddressBook -framework AddressBookUI -framework MessageUI -framework CoreLocation -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -lGoogleAdMobAds -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking36"0E6C6113-8338-4442-9DF6-7E82E9551161-
+
+CProcessInfoPlistFile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Info.plist GPSParking-Info.plist
+s381837145.456604
+e381837145.476813
+r1
+xProcessInfoPlistFile
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Info.plist
+xGPSParking-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Process GPSParking-Info.plistfcfb74595fc2b641^71217b595fc2b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/GPSParking-Info.plist0000000000000000^1116"ProcessInfoPlistFile DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Info.plist GPSParking-Info.plist    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GPSParking-Info.plist -genpkginfo /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/ResourceRules.plist -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/Info.plist36"C12C0092-EEE8-4573-AF32-F1E8342975E7-
+
+CProcessPCH /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch.pth LocalWeather/GPSParking-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381837145.676095
+e381837149.574445
+r1
+xProcessPCH
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch.pth
+xLocalWeather/GPSParking-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile LocalWeather/GPSParking-Prefix.pch6c3fad595fc2b641^630d935d5fc2b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/GPSParking-Prefix.pch0000000000000000^4263"ProcessPCH DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch.pth LocalWeather/GPSParking-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-generated-files.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-own-target-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-all-target-headers.hmap -iquote /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking-project-headers.hmap -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources/armv7 -I/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/DerivedSources -F/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch.dia -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/LocalWeather/GPSParking-Prefix.pch -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch.pth -MMD -MT dependencies -MF /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/PrecompiledHeaders/GPSParking-Prefix-dhiexyrxfgltraaihqxvozabrsls/GPSParking-Prefix.pch.d36"A4814DC9-80D0-4534-8D15-D063E18CEB22-
+
+CProcessPCH /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/Index/PrecompiledHeaders/GPSParking-Prefix-gcryjwzmjukwltbffhjflayzares_ast/GPSParking-Prefix.pch.pth LocalWeather/GPSParking-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/applemacbook/Library/MobileDevice/Provisioning Profiles/DarioAdHoc.mobileprovision" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovision
+s381837164.404476
+e381837164.429756
+r1
+xProcessProductPackaging
+x/Users/applemacbook/Library/MobileDevice/Provisioning Profiles/DarioAdHoc.mobileprovision
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection257"ProcessProductPackaging "/Users/applemacbook/Library/MobileDevice/Provisioning Profiles/DarioAdHoc.mobileprovision" DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovisionf4a9676c5fc2b641^82036e6c5fc2b641^---0#0#0#-19%DVTDocumentLocation2@212"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovision0000000000000000^836"ProcessProductPackaging "/Users/applemacbook/Library/MobileDevice/Provisioning Profiles/DarioAdHoc.mobileprovision" DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovision    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/applemacbook/Library/MobileDevice/Provisioning Profiles/DarioAdHoc.mobileprovision" -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/embedded.mobileprovision36"185CFE1A-707C-4C85-B13C-70083134E5A3-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcent
+s381837164.534151
+e381837164.563680
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection294"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcenta1da886c5fc2b641^895c906c5fc2b641^---0#0#0#-19%DVTDocumentLocation2@220"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcent000000000080d041^936"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcent    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/IntermediateBuildFilesPath/GPSParking.build/Release-iphoneos/GPSParking.build/GPSParking.xcent36"64C9C093-3208-4BD7-932F-ABBC4AD57DDE-
+
+CSetMode u+w,go-w,a+rX /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+s381837164.517988
+e381837164.526307
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"SetMode u+w,go-w,a+rX DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app57b5846c5fc2b641^30bc866c5fc2b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/0000000000000000^594"SetMode u+w,go-w,a+rX DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/chmod -RH u+w,go-w,a+rX /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app36"3E182EFF-FF84-4D01-8A51-086963711868-
+
+CSetOwnerAndGroup applemacbook:staff /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+s381837164.482661
+e381837164.509547
+r1
+xSetOwnerAndGroup
+xapplemacbook:staff
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"SetOwnerAndGroup applemacbook:staff DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.appa8ab7b6c5fc2b641^a989826c5fc2b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/0000000000000000^622"SetOwnerAndGroup "applemacbook:staff" DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/sbin/chown -RH "applemacbook:staff" /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app36"EC99DCDD-5CF6-42A6-ABF6-81456B7BB0B8-
+
+CStripping /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking
+s381837164.175279
+e381837164.368699
+r1
+xStripping
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Stripping DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking8e052d6c5fc2b641^cc625e6c5fc2b641^---0#0#0#-19%DVTDocumentLocation2@198"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking0000000000000000^668"Stripping DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/GPSParking36"DE9BD4BB-165B-4CB6-8A95-6C210DABC166-
+
+CSymLink /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+s381837145.482110
+e381837145.667891
+r1
+xSymLink
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Process /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app4c1c7d595fc2b641^83faaa595fc2b641^---0#0#0#--828"SymLink DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/ln -sf /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app36"E3135269-1E39-47C0-9A06-68481E51614B-
+
+CTouch /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM
+s381837165.542198
+e381837165.550921
+r1
+xTouch
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Touch /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYMeeed8a6d5fc2b641^f6088d6d5fc2b641^---0#0#0#--553"Touch DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/BuildProductsPath/Release-iphoneos/GPSParking.app.dSYM36"D4BBB267-408A-41B3-B992-82E881FA1BAA-
+
+CTouch /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+s381837164.438016
+e381837164.474475
+r1
+xTouch
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection177"Touch /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app3f3b706c5fc2b641^7577796c5fc2b641^---0#0#0#--567"Touch DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app36"CE02000C-64B4-4143-89AD-C378C96009B7-
+
+CValidate /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+s381837164.868913
+e381837165.533890
+r1
+xValidate
+x/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Validate DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app2997de6c5fc2b641^04ad886d5fc2b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app/0000000000000000^711"Validate DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app    cd /Users/applemacbook/Documents/RELEASED_PROJECT/Parking    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/applemacbook/Documents/RELEASED_PROJECT/Parking/DerivedData/GPSParking/ArchiveIntermediates/GPSParking/InstallationBuildProductsLocation/Applications/GPSParking.app36"23A59B1F-C212-49EC-8D7C-31B1C52B1E3F-
+

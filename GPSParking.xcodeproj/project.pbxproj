@@ -1,0 +1,448 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ED530D5813B51C3D00D4D29A /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED530D5713B51C3D00D4D29A /* AddressBookUI.framework */; };
+		ED530D5B13B51E7F00D4D29A /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED530D5A13B51E7F00D4D29A /* AddressBook.framework */; };
+		ED8BB4C414EE782F00ABCA4B /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ED8BB4C314EE782F00ABCA4B /* Icon@2x.png */; };
+		ED8BB4C614EE785A00ABCA4B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = ED8BB4C514EE785A00ABCA4B /* Icon.png */; };
+		ED8BB4C814EE78A200ABCA4B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = ED8BB4C714EE78A200ABCA4B /* Default.png */; };
+		ED8BB4CC14EE798200ABCA4B /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ED8BB4CB14EE798200ABCA4B /* Default@2x.png */; };
+		EDA8D75013ACEC9700607A22 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA8D74F13ACEC9700607A22 /* UIKit.framework */; };
+		EDA8D75213ACEC9700607A22 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA8D75113ACEC9700607A22 /* Foundation.framework */; };
+		EDA8D75413ACEC9700607A22 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA8D75313ACEC9700607A22 /* CoreGraphics.framework */; };
+		EDA8D75A13ACEC9700607A22 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EDA8D75813ACEC9700607A22 /* InfoPlist.strings */; };
+		EDA8D75D13ACEC9700607A22 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA8D75C13ACEC9700607A22 /* main.m */; };
+		EDA8D76013ACEC9700607A22 /* LocalWeatherAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA8D75F13ACEC9700607A22 /* LocalWeatherAppDelegate.m */; };
+		EDA8D76313ACEC9700607A22 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA8D76113ACEC9700607A22 /* MainWindow.xib */; };
+		EDA8D76C13ACED7200607A22 /* WhereIAmView.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA8D76A13ACED7200607A22 /* WhereIAmView.m */; };
+		EDA8D76D13ACED7200607A22 /* WhereIAmView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA8D76B13ACED7200607A22 /* WhereIAmView.xib */; };
+		EDA8D78D13ACEE8E00607A22 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA8D78C13ACEE8E00607A22 /* MapKit.framework */; };
+		EDA8D78F13ACEE9600607A22 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA8D78E13ACEE9600607A22 /* CoreLocation.framework */; };
+		EDA8D7C013AD557700607A22 /* temperature1.png in Resources */ = {isa = PBXBuildFile; fileRef = EDA8D7BF13AD557700607A22 /* temperature1.png */; };
+		EDAE104213AE7D5B00BCB0A0 /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = EDAE104113AE7D5B00BCB0A0 /* mail.png */; };
+		EDAE104E13AE7DE900BCB0A0 /* InfoView.m in Sources */ = {isa = PBXBuildFile; fileRef = EDAE104C13AE7DE900BCB0A0 /* InfoView.m */; };
+		EDAE104F13AE7DE900BCB0A0 /* InfoView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDAE104D13AE7DE900BCB0A0 /* InfoView.xib */; };
+		EDAE105413AE7E7800BCB0A0 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDAE105313AE7E7800BCB0A0 /* MessageUI.framework */; };
+		EDBB1F4E16B6F54100160A5D /* LocationZagreb.gpx in Resources */ = {isa = PBXBuildFile; fileRef = EDBB1F4D16B6F54100160A5D /* LocationZagreb.gpx */; };
+		EDC68E4C16B423C700442CBB /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC68E4B16B423C700442CBB /* Default-568h@2x.png */; };
+		EDE4B91A13D4840200ED5D25 /* favorite.png in Resources */ = {isa = PBXBuildFile; fileRef = EDE4B91913D4840200ED5D25 /* favorite.png */; };
+		EDE4B91F13D4855E00ED5D25 /* FavoriteView.m in Sources */ = {isa = PBXBuildFile; fileRef = EDE4B91D13D4855E00ED5D25 /* FavoriteView.m */; };
+		EDE4B92013D4855E00ED5D25 /* FavoriteView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDE4B91E13D4855E00ED5D25 /* FavoriteView.xib */; };
+		EDE9534313CF1DEC0042DF22 /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = EDE9534213CF1DEC0042DF22 /* car.png */; };
+		EDE9535713CF6CF80042DF22 /* cabinet.png in Resources */ = {isa = PBXBuildFile; fileRef = EDE9535613CF6CF80042DF22 /* cabinet.png */; };
+		EDE9535A13CF6D040042DF22 /* receipt.png in Resources */ = {isa = PBXBuildFile; fileRef = EDE9535913CF6D030042DF22 /* receipt.png */; };
+		EDE9535E13CF6E0A0042DF22 /* ListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EDE9535C13CF6E0A0042DF22 /* ListViewController.m */; };
+		EDE9535F13CF6E0A0042DF22 /* ListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDE9535D13CF6E0A0042DF22 /* ListViewController.xib */; };
+		EDFC189614A35C9C00910884 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EDFC189414A35C9C00910884 /* libGoogleAdMobAds.a */; };
+		EDFC189914A35CB500910884 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDFC189814A35CB500910884 /* AudioToolbox.framework */; };
+		EDFC189B14A35CDE00910884 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDFC189A14A35CDE00910884 /* SystemConfiguration.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		ED530D5713B51C3D00D4D29A /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
+		ED530D5A13B51E7F00D4D29A /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		ED8BB4C314EE782F00ABCA4B /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		ED8BB4C514EE785A00ABCA4B /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		ED8BB4C714EE78A200ABCA4B /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		ED8BB4CB14EE798200ABCA4B /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		EDA8D74B13ACEC9700607A22 /* GPSParking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GPSParking.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDA8D74F13ACEC9700607A22 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		EDA8D75113ACEC9700607A22 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EDA8D75313ACEC9700607A22 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		EDA8D75713ACEC9700607A22 /* GPSParking-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GPSParking-Info.plist"; sourceTree = "<group>"; };
+		EDA8D75913ACEC9700607A22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EDA8D75B13ACEC9700607A22 /* GPSParking-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GPSParking-Prefix.pch"; sourceTree = "<group>"; };
+		EDA8D75C13ACEC9700607A22 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EDA8D75E13ACEC9700607A22 /* LocalWeatherAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocalWeatherAppDelegate.h; sourceTree = "<group>"; };
+		EDA8D75F13ACEC9700607A22 /* LocalWeatherAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalWeatherAppDelegate.m; sourceTree = "<group>"; };
+		EDA8D76213ACEC9700607A22 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		EDA8D76913ACED7200607A22 /* WhereIAmView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhereIAmView.h; sourceTree = "<group>"; };
+		EDA8D76A13ACED7200607A22 /* WhereIAmView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhereIAmView.m; sourceTree = "<group>"; };
+		EDA8D76B13ACED7200607A22 /* WhereIAmView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WhereIAmView.xib; sourceTree = "<group>"; };
+		EDA8D78C13ACEE8E00607A22 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		EDA8D78E13ACEE9600607A22 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		EDA8D7BF13AD557700607A22 /* temperature1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = temperature1.png; sourceTree = "<group>"; };
+		EDAE104113AE7D5B00BCB0A0 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.png; sourceTree = "<group>"; };
+		EDAE104B13AE7DE900BCB0A0 /* InfoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoView.h; sourceTree = "<group>"; };
+		EDAE104C13AE7DE900BCB0A0 /* InfoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoView.m; sourceTree = "<group>"; };
+		EDAE104D13AE7DE900BCB0A0 /* InfoView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoView.xib; sourceTree = "<group>"; };
+		EDAE105313AE7E7800BCB0A0 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		EDB074DD1495130800D6C561 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		EDBB1F4B16B6F3E900160A5D /* LocationZagreb.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = LocationZagreb.gpx; sourceTree = "<group>"; };
+		EDBB1F4D16B6F54100160A5D /* LocationZagreb.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = LocationZagreb.gpx; sourceTree = "<group>"; };
+		EDC68E4B16B423C700442CBB /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		EDE4B91913D4840200ED5D25 /* favorite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favorite.png; sourceTree = "<group>"; };
+		EDE4B91C13D4855E00ED5D25 /* FavoriteView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FavoriteView.h; sourceTree = "<group>"; };
+		EDE4B91D13D4855E00ED5D25 /* FavoriteView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FavoriteView.m; sourceTree = "<group>"; };
+		EDE4B91E13D4855E00ED5D25 /* FavoriteView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FavoriteView.xib; sourceTree = "<group>"; };
+		EDE9534213CF1DEC0042DF22 /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car.png; sourceTree = "<group>"; };
+		EDE9535613CF6CF80042DF22 /* cabinet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cabinet.png; sourceTree = "<group>"; };
+		EDE9535913CF6D030042DF22 /* receipt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = receipt.png; sourceTree = "<group>"; };
+		EDE9535B13CF6E0A0042DF22 /* ListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListViewController.h; sourceTree = "<group>"; };
+		EDE9535C13CF6E0A0042DF22 /* ListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListViewController.m; sourceTree = "<group>"; };
+		EDE9535D13CF6E0A0042DF22 /* ListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ListViewController.xib; sourceTree = "<group>"; };
+		EDFC188E14A35C9C00910884 /* GADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerView.h; sourceTree = "<group>"; };
+		EDFC188F14A35C9C00910884 /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerViewDelegate.h; sourceTree = "<group>"; };
+		EDFC189014A35C9C00910884 /* GADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitial.h; sourceTree = "<group>"; };
+		EDFC189114A35C9C00910884 /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitialDelegate.h; sourceTree = "<group>"; };
+		EDFC189214A35C9C00910884 /* GADRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequest.h; sourceTree = "<group>"; };
+		EDFC189314A35C9C00910884 /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequestError.h; sourceTree = "<group>"; };
+		EDFC189414A35C9C00910884 /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAdMobAds.a; sourceTree = "<group>"; };
+		EDFC189514A35C9C00910884 /* SampleConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleConstants.h; sourceTree = "<group>"; };
+		EDFC189814A35CB500910884 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		EDFC189A14A35CDE00910884 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EDA8D74813ACEC9700607A22 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDFC189B14A35CDE00910884 /* SystemConfiguration.framework in Frameworks */,
+				EDFC189914A35CB500910884 /* AudioToolbox.framework in Frameworks */,
+				ED530D5B13B51E7F00D4D29A /* AddressBook.framework in Frameworks */,
+				ED530D5813B51C3D00D4D29A /* AddressBookUI.framework in Frameworks */,
+				EDAE105413AE7E7800BCB0A0 /* MessageUI.framework in Frameworks */,
+				EDA8D78F13ACEE9600607A22 /* CoreLocation.framework in Frameworks */,
+				EDA8D78D13ACEE8E00607A22 /* MapKit.framework in Frameworks */,
+				EDA8D75013ACEC9700607A22 /* UIKit.framework in Frameworks */,
+				EDA8D75213ACEC9700607A22 /* Foundation.framework in Frameworks */,
+				EDA8D75413ACEC9700607A22 /* CoreGraphics.framework in Frameworks */,
+				EDFC189614A35C9C00910884 /* libGoogleAdMobAds.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EDA8D74013ACEC9600607A22 = {
+			isa = PBXGroup;
+			children = (
+				EDBB1F4D16B6F54100160A5D /* LocationZagreb.gpx */,
+				EDBB1F4B16B6F3E900160A5D /* LocationZagreb.gpx */,
+				EDC68E4B16B423C700442CBB /* Default-568h@2x.png */,
+				ED8BB4CB14EE798200ABCA4B /* Default@2x.png */,
+				ED8BB4C714EE78A200ABCA4B /* Default.png */,
+				ED8BB4C514EE785A00ABCA4B /* Icon.png */,
+				ED8BB4C314EE782F00ABCA4B /* Icon@2x.png */,
+				EDFC189A14A35CDE00910884 /* SystemConfiguration.framework */,
+				EDFC189814A35CB500910884 /* AudioToolbox.framework */,
+				EDB074DD1495130800D6C561 /* iAd.framework */,
+				ED530D5A13B51E7F00D4D29A /* AddressBook.framework */,
+				ED530D5713B51C3D00D4D29A /* AddressBookUI.framework */,
+				EDAE105313AE7E7800BCB0A0 /* MessageUI.framework */,
+				EDA8D75513ACEC9700607A22 /* LocalWeather */,
+				EDA8D74E13ACEC9700607A22 /* Frameworks */,
+				EDA8D74C13ACEC9700607A22 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EDA8D74C13ACEC9700607A22 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EDA8D74B13ACEC9700607A22 /* GPSParking.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EDA8D74E13ACEC9700607A22 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EDA8D78E13ACEE9600607A22 /* CoreLocation.framework */,
+				EDA8D78C13ACEE8E00607A22 /* MapKit.framework */,
+				EDA8D74F13ACEC9700607A22 /* UIKit.framework */,
+				EDA8D75113ACEC9700607A22 /* Foundation.framework */,
+				EDA8D75313ACEC9700607A22 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EDA8D75513ACEC9700607A22 /* LocalWeather */ = {
+			isa = PBXGroup;
+			children = (
+				EDFC188E14A35C9C00910884 /* GADBannerView.h */,
+				EDFC188F14A35C9C00910884 /* GADBannerViewDelegate.h */,
+				EDFC189014A35C9C00910884 /* GADInterstitial.h */,
+				EDFC189114A35C9C00910884 /* GADInterstitialDelegate.h */,
+				EDFC189214A35C9C00910884 /* GADRequest.h */,
+				EDFC189314A35C9C00910884 /* GADRequestError.h */,
+				EDFC189414A35C9C00910884 /* libGoogleAdMobAds.a */,
+				EDFC189514A35C9C00910884 /* SampleConstants.h */,
+				EDA8D75E13ACEC9700607A22 /* LocalWeatherAppDelegate.h */,
+				EDA8D75F13ACEC9700607A22 /* LocalWeatherAppDelegate.m */,
+				EDE9535613CF6CF80042DF22 /* cabinet.png */,
+				EDE9535913CF6D030042DF22 /* receipt.png */,
+				EDE9534213CF1DEC0042DF22 /* car.png */,
+				EDA8D7BF13AD557700607A22 /* temperature1.png */,
+				EDAE104113AE7D5B00BCB0A0 /* mail.png */,
+				EDE9535B13CF6E0A0042DF22 /* ListViewController.h */,
+				EDE9535C13CF6E0A0042DF22 /* ListViewController.m */,
+				EDE9535D13CF6E0A0042DF22 /* ListViewController.xib */,
+				EDE4B91C13D4855E00ED5D25 /* FavoriteView.h */,
+				EDE4B91D13D4855E00ED5D25 /* FavoriteView.m */,
+				EDE4B91E13D4855E00ED5D25 /* FavoriteView.xib */,
+				EDA8D76113ACEC9700607A22 /* MainWindow.xib */,
+				EDA8D76913ACED7200607A22 /* WhereIAmView.h */,
+				EDA8D76A13ACED7200607A22 /* WhereIAmView.m */,
+				EDA8D76B13ACED7200607A22 /* WhereIAmView.xib */,
+				EDAE104B13AE7DE900BCB0A0 /* InfoView.h */,
+				EDAE104C13AE7DE900BCB0A0 /* InfoView.m */,
+				EDAE104D13AE7DE900BCB0A0 /* InfoView.xib */,
+				EDA8D75613ACEC9700607A22 /* Supporting Files */,
+			);
+			path = LocalWeather;
+			sourceTree = "<group>";
+		};
+		EDA8D75613ACEC9700607A22 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EDE4B91913D4840200ED5D25 /* favorite.png */,
+				EDA8D75713ACEC9700607A22 /* GPSParking-Info.plist */,
+				EDA8D75813ACEC9700607A22 /* InfoPlist.strings */,
+				EDA8D75B13ACEC9700607A22 /* GPSParking-Prefix.pch */,
+				EDA8D75C13ACEC9700607A22 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EDA8D74A13ACEC9700607A22 /* GPSParking */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDA8D76613ACEC9700607A22 /* Build configuration list for PBXNativeTarget "GPSParking" */;
+			buildPhases = (
+				EDA8D74713ACEC9700607A22 /* Sources */,
+				EDA8D74813ACEC9700607A22 /* Frameworks */,
+				EDA8D74913ACEC9700607A22 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GPSParking;
+			productName = LocalWeather;
+			productReference = EDA8D74B13ACEC9700607A22 /* GPSParking.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EDA8D74213ACEC9600607A22 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+			};
+			buildConfigurationList = EDA8D74513ACEC9600607A22 /* Build configuration list for PBXProject "GPSParking" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EDA8D74013ACEC9600607A22;
+			productRefGroup = EDA8D74C13ACEC9700607A22 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EDA8D74A13ACEC9700607A22 /* GPSParking */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EDA8D74913ACEC9700607A22 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA8D75A13ACEC9700607A22 /* InfoPlist.strings in Resources */,
+				EDA8D76313ACEC9700607A22 /* MainWindow.xib in Resources */,
+				EDA8D76D13ACED7200607A22 /* WhereIAmView.xib in Resources */,
+				EDA8D7C013AD557700607A22 /* temperature1.png in Resources */,
+				EDAE104213AE7D5B00BCB0A0 /* mail.png in Resources */,
+				EDAE104F13AE7DE900BCB0A0 /* InfoView.xib in Resources */,
+				EDE9534313CF1DEC0042DF22 /* car.png in Resources */,
+				EDE9535713CF6CF80042DF22 /* cabinet.png in Resources */,
+				EDE9535A13CF6D040042DF22 /* receipt.png in Resources */,
+				EDE9535F13CF6E0A0042DF22 /* ListViewController.xib in Resources */,
+				EDE4B91A13D4840200ED5D25 /* favorite.png in Resources */,
+				EDE4B92013D4855E00ED5D25 /* FavoriteView.xib in Resources */,
+				ED8BB4C414EE782F00ABCA4B /* Icon@2x.png in Resources */,
+				ED8BB4C614EE785A00ABCA4B /* Icon.png in Resources */,
+				ED8BB4C814EE78A200ABCA4B /* Default.png in Resources */,
+				ED8BB4CC14EE798200ABCA4B /* Default@2x.png in Resources */,
+				EDC68E4C16B423C700442CBB /* Default-568h@2x.png in Resources */,
+				EDBB1F4E16B6F54100160A5D /* LocationZagreb.gpx in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EDA8D74713ACEC9700607A22 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA8D75D13ACEC9700607A22 /* main.m in Sources */,
+				EDA8D76013ACEC9700607A22 /* LocalWeatherAppDelegate.m in Sources */,
+				EDA8D76C13ACED7200607A22 /* WhereIAmView.m in Sources */,
+				EDAE104E13AE7DE900BCB0A0 /* InfoView.m in Sources */,
+				EDE9535E13CF6E0A0042DF22 /* ListViewController.m in Sources */,
+				EDE4B91F13D4855E00ED5D25 /* FavoriteView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EDA8D75813ACEC9700607A22 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDA8D75913ACEC9700607A22 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		EDA8D76113ACEC9700607A22 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDA8D76213ACEC9700607A22 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EDA8D76413ACEC9700607A22 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					armv6,
+					armv7,
+				);
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_THUMB_SUPPORT = NO;
+				GCC_VERSION = "";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		EDA8D76513ACEC9700607A22 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					armv6,
+					armv7,
+				);
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Dario Caric";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_THUMB_SUPPORT = NO;
+				GCC_VERSION = "";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		EDA8D76713ACEC9700607A22 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = (
+					armv6,
+					armv7,
+				);
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LocalWeather/GPSParking-Prefix.pch";
+				GCC_THUMB_SUPPORT = NO;
+				GCC_VERSION = "";
+				INFOPLIST_FILE = "GPSParking-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/LocalWeather\"",
+				);
+				PRODUCT_NAME = GPSParking;
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		EDA8D76813ACEC9700607A22 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = (
+					armv6,
+					armv7,
+				);
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Dario Caric";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LocalWeather/GPSParking-Prefix.pch";
+				GCC_THUMB_SUPPORT = NO;
+				GCC_VERSION = "";
+				INFOPLIST_FILE = "GPSParking-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/LocalWeather\"",
+				);
+				PRODUCT_NAME = GPSParking;
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EDA8D74513ACEC9600607A22 /* Build configuration list for PBXProject "GPSParking" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA8D76413ACEC9700607A22 /* Debug */,
+				EDA8D76513ACEC9700607A22 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EDA8D76613ACEC9700607A22 /* Build configuration list for PBXNativeTarget "GPSParking" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA8D76713ACEC9700607A22 /* Debug */,
+				EDA8D76813ACEC9700607A22 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EDA8D74213ACEC9600607A22 /* Project object */;
+}
